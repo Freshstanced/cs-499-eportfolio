@@ -1,1 +1,0 @@
-The original Travlr artifact is included in the Brightspace final submission package as Original_Travlr_Artifact_Duran_Morrison.zip.

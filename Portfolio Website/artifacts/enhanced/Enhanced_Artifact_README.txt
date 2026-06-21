@@ -1,1 +1,0 @@
-The enhanced Travlr artifact is included in the Brightspace final submission package as Enhanced_Travlr_Artifact_Duran_Morrison.zip.
